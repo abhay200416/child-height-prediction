@@ -10,8 +10,8 @@ Predict a child's height based on parents' heights and child's gender.
 
 ## Steps Followed
 1. Exploratory Data Analysis
-2. ...  ← fill these yourself
-3. 
+2. fill missing value
+3. encod the data
 4. 
 
 ## Results
